@@ -2,7 +2,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 
 const app = express();
-const PORT = 7000;
+const PORT = 3000;
 
 // Dummy data for restaurants
 const restaurants = [
